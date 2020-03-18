@@ -8,3 +8,7 @@ https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9
 - minimal config
 - minimal plugins
 - Compose vim commands
+
+Current Progress:
+Week 1: vimtutor - line ~ 500, lesson 4.2
+
