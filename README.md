@@ -13,3 +13,4 @@ Current Progress:
 Week 1: vimtutor - line ~ 500, lesson 4.2
 NEED to find out how to edit VIMRC path file
 https://stackoverflow.com/questions/7109667/change-default-location-of-vimrc
+export VIMINIT='source ~/.vim/.vimrc'
